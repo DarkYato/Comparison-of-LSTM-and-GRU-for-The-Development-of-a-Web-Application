@@ -1,1 +1,5 @@
 # Comparison-of-LSTM-and-GRU-for-The-Development-of-a-Web-Application
+
+# Introduction
+
+Machine learning algorithms for stock market prediction have attracted a lot of interest because they have the ability to help investors make wise selections. This study compares the Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU) algorithms for stock market prediction. A comparative empirical analysis reveals that GRU outperforms LSTM in stock price prediction. The methodology section provides a detailed description of the experimental setup, evaluation metrics, and data preparation techniques used to compare LSTM with GRU. The results show how successfully the complex patterns present in stock market data are captured by GRU.  A web application for stock prediction is made using the GRU algorithm following a comparison of the algorithms. The application provides users with real-time stock predictions based on previous data, allowing them to make well-informed investment decisions on time.
